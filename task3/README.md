@@ -61,25 +61,7 @@ task3/
 ✓ **User Book History** - Keep track of books issued to each user  
 ✓ **Library Statistics** - View total books, available, issued, and registered users  
 ✓ **Error Handling** - Comprehensive error messages for invalid operations  
-
-## How to Compile and Run
-
-### Method 1: Using VS Code Tasks
-1. Open the project in VS Code
-2. Press `Ctrl+Shift+B` to compile the project
-3. Press `Ctrl+Shift+D` to run the program (or use Run menu → Run Task → "Run Library Management System")
-
-### Method 2: Using Terminal
-```bash
-# Navigate to project directory
-cd c:\Users\dk124\OneDrive\Desktop\All-Task\task3
-
-# Compile all Java files
-javac -d bin src\*.java
-
-# Run the main program
-java -cp bin Main
-```
+ 
 
 ## Sample Output
 
@@ -113,3 +95,4 @@ All operations provide clear success and error messages with details.
 - Implement book reservations
 - Add database persistence
 - Create a GUI interface
+
